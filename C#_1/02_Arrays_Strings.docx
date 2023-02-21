@@ -1,0 +1,14 @@
+1. When to use String vs. StringBuilder in C# ?
+  Use String when the value will not change frequently.
+  Use StringBuilder when the value will be frequently modified or when concatenating a large number of strings.
+2. What is the base class for all arrays in C#?
+  System.Array.
+3. How do you sort an array in C#?
+  Use Array.Sort()
+4. What property of an array object can be used to get the total number of elements in an array?
+  Length property
+5. Can you store multiple data types in System.Array?
+  yes, as it is the base class for all arrays
+6. What’s the difference between the System.Array.CopyTo() and System.Array.Clone()?
+  the former copies the elements of one array to another, which requires an existing array to copy the elements to
+  the latter creates a new array object with the same elements as the original array  
