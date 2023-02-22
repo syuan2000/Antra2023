@@ -1,0 +1,15 @@
+/Users/evali/Projects/02UnderstandingTypes/02UnderstandingTypes/bin/Debug/net6.0/02UnderstandingTypes
+/Users/evali/Projects/02UnderstandingTypes/02UnderstandingTypes/bin/Debug/net6.0/02UnderstandingTypes.deps.json
+/Users/evali/Projects/02UnderstandingTypes/02UnderstandingTypes/bin/Debug/net6.0/02UnderstandingTypes.runtimeconfig.json
+/Users/evali/Projects/02UnderstandingTypes/02UnderstandingTypes/bin/Debug/net6.0/02UnderstandingTypes.dll
+/Users/evali/Projects/02UnderstandingTypes/02UnderstandingTypes/bin/Debug/net6.0/02UnderstandingTypes.pdb
+/Users/evali/Projects/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net6.0/02UnderstandingTypes.csproj.AssemblyReference.cache
+/Users/evali/Projects/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net6.0/02UnderstandingTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evali/Projects/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net6.0/02UnderstandingTypes.AssemblyInfoInputs.cache
+/Users/evali/Projects/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net6.0/02UnderstandingTypes.AssemblyInfo.cs
+/Users/evali/Projects/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net6.0/02UnderstandingTypes.csproj.CoreCompileInputs.cache
+/Users/evali/Projects/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net6.0/02UnderstandingTypes.dll
+/Users/evali/Projects/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net6.0/refint/02UnderstandingTypes.dll
+/Users/evali/Projects/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net6.0/02UnderstandingTypes.pdb
+/Users/evali/Projects/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net6.0/02UnderstandingTypes.genruntimeconfig.cache
+/Users/evali/Projects/02UnderstandingTypes/02UnderstandingTypes/obj/Debug/net6.0/ref/02UnderstandingTypes.dll
