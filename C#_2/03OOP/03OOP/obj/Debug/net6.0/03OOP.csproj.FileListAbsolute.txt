@@ -1,0 +1,15 @@
+/Users/evali/Projects/03OOP/03OOP/bin/Debug/net6.0/03OOP
+/Users/evali/Projects/03OOP/03OOP/bin/Debug/net6.0/03OOP.deps.json
+/Users/evali/Projects/03OOP/03OOP/bin/Debug/net6.0/03OOP.runtimeconfig.json
+/Users/evali/Projects/03OOP/03OOP/bin/Debug/net6.0/03OOP.dll
+/Users/evali/Projects/03OOP/03OOP/bin/Debug/net6.0/03OOP.pdb
+/Users/evali/Projects/03OOP/03OOP/obj/Debug/net6.0/03OOP.csproj.AssemblyReference.cache
+/Users/evali/Projects/03OOP/03OOP/obj/Debug/net6.0/03OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evali/Projects/03OOP/03OOP/obj/Debug/net6.0/03OOP.AssemblyInfoInputs.cache
+/Users/evali/Projects/03OOP/03OOP/obj/Debug/net6.0/03OOP.AssemblyInfo.cs
+/Users/evali/Projects/03OOP/03OOP/obj/Debug/net6.0/03OOP.csproj.CoreCompileInputs.cache
+/Users/evali/Projects/03OOP/03OOP/obj/Debug/net6.0/03OOP.dll
+/Users/evali/Projects/03OOP/03OOP/obj/Debug/net6.0/refint/03OOP.dll
+/Users/evali/Projects/03OOP/03OOP/obj/Debug/net6.0/03OOP.pdb
+/Users/evali/Projects/03OOP/03OOP/obj/Debug/net6.0/03OOP.genruntimeconfig.cache
+/Users/evali/Projects/03OOP/03OOP/obj/Debug/net6.0/ref/03OOP.dll
