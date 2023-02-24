@@ -1,0 +1,15 @@
+/Users/evali/Projects/O4Generic/O4Generic/bin/Debug/net6.0/O4Generic
+/Users/evali/Projects/O4Generic/O4Generic/bin/Debug/net6.0/O4Generic.deps.json
+/Users/evali/Projects/O4Generic/O4Generic/bin/Debug/net6.0/O4Generic.runtimeconfig.json
+/Users/evali/Projects/O4Generic/O4Generic/bin/Debug/net6.0/O4Generic.dll
+/Users/evali/Projects/O4Generic/O4Generic/bin/Debug/net6.0/O4Generic.pdb
+/Users/evali/Projects/O4Generic/O4Generic/obj/Debug/net6.0/O4Generic.csproj.AssemblyReference.cache
+/Users/evali/Projects/O4Generic/O4Generic/obj/Debug/net6.0/O4Generic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evali/Projects/O4Generic/O4Generic/obj/Debug/net6.0/O4Generic.AssemblyInfoInputs.cache
+/Users/evali/Projects/O4Generic/O4Generic/obj/Debug/net6.0/O4Generic.AssemblyInfo.cs
+/Users/evali/Projects/O4Generic/O4Generic/obj/Debug/net6.0/O4Generic.csproj.CoreCompileInputs.cache
+/Users/evali/Projects/O4Generic/O4Generic/obj/Debug/net6.0/O4Generic.dll
+/Users/evali/Projects/O4Generic/O4Generic/obj/Debug/net6.0/refint/O4Generic.dll
+/Users/evali/Projects/O4Generic/O4Generic/obj/Debug/net6.0/O4Generic.pdb
+/Users/evali/Projects/O4Generic/O4Generic/obj/Debug/net6.0/O4Generic.genruntimeconfig.cache
+/Users/evali/Projects/O4Generic/O4Generic/obj/Debug/net6.0/ref/O4Generic.dll
